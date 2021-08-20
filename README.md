@@ -9,7 +9,10 @@ For this project, our client has asked us to modify a webpage and dynamic table 
 
 ## Results
 
-Upon opening the webpage, our client will see the title with a pictured background at the top. When we scroll down, we see the header and text our client asked us to include. Beneath that, we can see our filters and all the data in a dynamic table. Please see below for a screenshot of the 2nd section of the webpage:
+Upon opening the webpage, our client will see the title with a pictured background at the top. When we scroll down, we see the header and text our client asked us to include. Beneath that, we can see our filters and all the data in a dynamic table. Please see below for a screenshot of the 1st & 2nd sections of the webpage:
+
+![WebPage_1](https://user-images.githubusercontent.com/84881187/130169926-f4182e4a-61af-41d7-86fc-0c0e5e59beaa.PNG)
+
 
 ![WebPage_2](https://user-images.githubusercontent.com/84881187/130135993-ac2524ab-926e-4ea3-a49c-6f28de06f8d7.PNG)
 
