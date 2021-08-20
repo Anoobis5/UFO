@@ -33,4 +33,14 @@ In the example above, we can see that but filling in multiple criteria, we can n
 
 ## Project Summary
 
-Per our client's request, we have created a clean and functional webpage to filter through different criteria 
+Per our client's request, we have created a clean and functional webpage to filter through different criteria and will display the filtered results on the webpage. This will greatly help provide a more in-depth analysis of the data provided. 
+
+However, one big drawback with the filtered dynamic table database we have, is that our data is very prone to mis-input errors from the user end. Our code, directly parses through our data.js file. In our data file, all names and initials are input in lower case lettering. Any accidental inputs in letter casing could skew the data filtered. If one were to search for California using the abbreviation 'CA' vs 'ca' as noted in the data, there would be no results. See picture below for example:
+
+![WebPage_Search_Error](https://user-images.githubusercontent.com/84881187/130167896-2c36f80d-b2f4-4a84-acf4-fb7fbe1b8bb0.PNG)
+
+
+Our code does a great job filtering the data provided, but there are some recommendations I would make to improve the webpage. First off, is updating and collecting more data. Our data set is pretty outdated, and 10 years old. It would be beneifial to increase our sample size and collect more data. We could scrape some data from other sites collecting similar data, and we could also create another webpage or form where users can submit their own data to the page.
+
+On the note of collecting more data, one recommendation I would add to our data set would be to incorporate the number of viewers in an instance. The nature of our data leads to increased skepticism in validity. We can minimize unreliable entries by collecting and filtering data on how many viewers were present during the sighting. This way data can also be filtered to exclude single viewer sightings if you wanted to.  
+
