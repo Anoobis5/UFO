@@ -27,7 +27,7 @@ The initial web page provided 2 search criteria, with Filter buttons, allowing t
 
 ![Webpage_2_Search_2](https://user-images.githubusercontent.com/84881187/130136895-80843cf2-df81-48d4-9c00-92a9f731b4ac.PNG)
 
-In the example above, we can see that but filling in multiple criteria, we can narrow dow our data from just instances occuring on 1/13/2010, to more specific criteria (occurences on 'Date' 1/13/2010, in 'City' white oak, in 'State' pa, in 'Country' us, in a triangle 'Shape'). You can fill all the criteria to fill your searches, or just a few to collect the data that you require. In the example screenshot below, we see that we have filter the data by Date (1//11/2010) and by Country (us), to give us filtered data for our needs. 
+In the example above, we can see that by filling in multiple criteria, we can narrow dow our data from just instances occuring on 1/13/2010, to more specific criteria (occurences on 'Date' 1/13/2010, in 'City' white oak, in 'State' pa, in 'Country' us, in a triangle 'Shape'). You can fill all the criteria to fill your searches, or just a few to collect the data that you require. In the example screenshot below, we see that we have filter the data by Date (1//11/2010) and by Country (us), to give us filtered data for our needs. 
 
 ![WebPage_Search_3](https://user-images.githubusercontent.com/84881187/130156498-846d5783-b16c-4ddb-9a22-33272e0b3952.PNG)
 
