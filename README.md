@@ -46,3 +46,4 @@ Our code does a great job filtering the data provided, but there are some recomm
 
 On the note of collecting more data, one recommendation I would add to our data set would be to incorporate the number of viewers in an instance. The nature of our data leads to increased skepticism in validity. We can minimize unreliable entries by collecting and filtering data on how many viewers were present during the sighting. This way data can also be filtered to exclude single viewer sightings if you wanted to.  
 
+Our current webpage does a great job of parsing and displaying search results based on multiple criterion. Our code can filter through all the data and display search results based on user input criteria, on a variety of variables. While this current webpage suits our clients needs, there is much more data that could be collected, and much more we could do build on the webpage it self to help serve the user community. 
